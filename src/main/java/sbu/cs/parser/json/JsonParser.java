@@ -1,5 +1,5 @@
 package sbu.cs.parser.json;
-//this is for test and it is empty
+
 public class JsonParser {
 
     /*
